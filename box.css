@@ -1,0 +1,15 @@
+@charset "utf-8";
+/* CSS Document */
+.box{
+	height:400px;
+
+}
+.paragraphone{
+	/*border:1px solid white;*/
+	width:700px;
+	height:400px;
+	margin:0 auto;
+	margin-top:200px;
+
+}
+
