@@ -5,11 +5,26 @@
 
 }
 .paragraphone{
-	/*border:1px solid white;*/
+	
 	width:700px;
-	height:400px;
+	height:300px;
+	margin:0 auto;
+	margin-top:300px;
+}
+.paragraphtwo{
+
+	width:460px;
 	margin:0 auto;
 	margin-top:200px;
-
+}
+.paragraphthree{
+	width:800px;
+	margin:0 auto;
+	
+}
+.discuss_part{
+	width:800px;
+	margin:0 auto;
+	
 }
 
