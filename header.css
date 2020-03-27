@@ -1,0 +1,45 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	font-family:"Microsoft YaHei";
+}
+.header{
+	width:window.innerWidth;
+	height:50px;
+	
+	margin:0 auto;
+	text-aligen:center;
+	position:fixed;
+	left:355px;
+	
+	background-color:black;
+	top:0px;
+	
+}
+.bar{
+	width:770px;
+	text-align:center;
+	margin:0 auto;
+}
+
+.nav-home{
+	text-decoration:none;
+
+}
+li{
+	float:left;
+	display:inline-block;
+	width:120px;
+	height:40px;
+	text-align:center;
+	line-height:40px;
+
+}
+.selcet{
+	border-bottom:3px solid white;
+	background-color:#141414
+}
+.selceted{
+
+}
+
