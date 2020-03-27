@@ -5,17 +5,24 @@ body{
 
 	height:100%;
 }
+.header-bar{
+	position:fixed;
+	top:0px;
+	width:1536px;
+	left:0px;
+	
+}
 .header{
 	width:window.innerWidth;
 	height:50px;
 	
 	margin:0 auto;
 	text-aligen:center;
-	position:fixed;
+	
 	left:355px;
 	
 	background-color:black;
-	top:0px;
+	
 	
 }
 .bar{
