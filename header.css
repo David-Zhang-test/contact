@@ -2,6 +2,8 @@
 /* CSS Document */
 body{
 	font-family:"Microsoft YaHei";
+
+	height:100%;
 }
 .header{
 	width:window.innerWidth;
