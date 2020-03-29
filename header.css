@@ -2,8 +2,7 @@
 /* CSS Document */
 body{
 	font-family:"Microsoft YaHei";
-	bgcolor: red;
-	height:100%;
+	background:url(背景.png) #66f6ff
 }
 .header-bar{
 	position:fixed;
